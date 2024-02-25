@@ -1,4 +1,4 @@
-package co.edu.sena;
+package co.edu.sena.opp_2907422;
 
 import java.util.Scanner;
 
@@ -15,5 +15,3 @@ public class App1 {
         System.out.println("La suma de los 2 numeros es: " + result);
     }
 }
-
-
