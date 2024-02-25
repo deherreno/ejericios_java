@@ -1,4 +1,4 @@
-package co.edu.sena;
+package co.edu.sena.opp_2907422;
 
 import java.util.Scanner;
 

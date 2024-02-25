@@ -1,9 +1,9 @@
-package co.edu.sena;
+package co.edu.sena.opp_2907422;
 
 import java.util.Scanner;
 
 public class App6 {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         System.out.println("Longitud de la circunferencia y area");
         System.out.println("Ingrese el radio");
         Scanner src= new Scanner (System.in);
